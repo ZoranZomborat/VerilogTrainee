@@ -1,0 +1,19 @@
+D:/Movidius/Verilog/VerilogTrainee/func.v {1 {vlog -work work -vopt -nocovercells D:/Movidius/Verilog/VerilogTrainee/func.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module func
+
+Top level modules:
+	func
+
+} {} {}} D:/Movidius/Verilog/VerilogTrainee/mainsv.sv {1 {vlog -work work -vopt -sv -nocovercells {D:\Movidius\Verilog\VerilogTrainee\mainsv.sv}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+
+} {} {}} D:/Movidius/Verilog/VerilogTrainee/main.v {1 {vlog -work work -vopt -nocovercells D:/Movidius/Verilog/VerilogTrainee/main.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module main
+-- Compiling module func
+
+Top level modules:
+	main
+
+} {} {}}

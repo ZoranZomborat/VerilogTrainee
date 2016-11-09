@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Poli stuff\Anul 2\Sem 2\OC\Laborator\SRT 4
+T_opt
+Z1 VWlPbgQSAlJ1IQL5klV_cc1
+Z2 04 4 4 work main fast 0
+Z3 =1-ac220b1d5bed-5823b202-78-b84
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;6.5;42
+vfunc
+Z7 I50_5WM2hh5?nQYTc]QHBc2
+Z8 VNG@dk3@VfQ]o7c3H:hAXK2
+Z9 dD:\Movidius\Verilog\VerilogTrainee
+Z10 w1478733370
+Z11 8D:/Movidius/Verilog/VerilogTrainee/func.v
+Z12 FD:/Movidius/Verilog/VerilogTrainee/func.v
+L0 1
+Z13 OE;L;6.5;42
+r1
+31
+Z14 !s102 -nocovercells
+Z15 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z16 !s100 _?InK<DGj9dT2]Q?a><gW3
+!s85 0
+vmain
+Z17 I`>;T7G4A7g[1FCMJGE]0h3
+Z18 VEAT@0_d?1jQUQ5cgEJon`1
+R9
+Z19 w1478734327
+Z20 8D:/Movidius/Verilog/VerilogTrainee/main.v
+Z21 FD:/Movidius/Verilog/VerilogTrainee/main.v
+Z22 Ffunc.v
+Z23 Ftask.v
+L0 1
+R13
+r1
+31
+R14
+R15
+Z24 !s100 eMWF6BN2Dc9mc1kIS86z22
+!s85 0
