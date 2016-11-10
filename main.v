@@ -7,7 +7,7 @@ integer   data_integer;
 
 initial begin
   $display("FOO = %d",foo(4'd12));
-  bar(4'd6);
+  bar(4'd7);
 end
 
 endmodule
